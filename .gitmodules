@@ -1,0 +1,6 @@
+[submodule "elkpy"]
+	path = elkpy
+	url = https://github.com/elk-audio/elkpy
+[submodule "elkcpp"]
+	path = elkcpp
+	url = https://github.com/elk-audio/elkcpp
